@@ -1,0 +1,9 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Core/Src/main.c:13:5:main	1
+../Core/Src/main.c:21:6:FreeRTOS_init	1
+../Core/Src/main.c:27:6:LEDTask	1
+../Core/Src/main.c:38:6:EXTI_init	1
+../Core/Src/main.c:65:6:EXTI15_10_IRQHandler	3
+../Core/Src/main.c:78:6:GPIO_toggle	1
+../Core/Src/main.c:92:6:delay_ms	2
